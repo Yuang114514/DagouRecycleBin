@@ -30,3 +30,4 @@ bin/
 .DS_Store
 
 src/java/deepseek_test/
+build/
